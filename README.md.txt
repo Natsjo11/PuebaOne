@@ -18,7 +18,7 @@ Este proyecto es parte de una prueba técnica de Unity (nivel junior).
 5. Ver la UI actualizándose.
 
 ## 🎥 Demo en video
-[Ver video en Drive](https://drive.google.com/file/d/1rIn3GgfNBS89xSvFoKCQHneTlgLJlN_z/view?usp=sharing)
+[Ver video en Drive] https://drive.google.com/file/d/1rIn3GgfNBS89xSvFoKCQHneTlgLJlN_z/view?usp=sharing
 
 
 NatsJo11
