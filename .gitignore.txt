@@ -1,0 +1,27 @@
+[Llibrería de Unity]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+[Visual Studio]
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+[OS]
+.DS_Store
+Thumbs.db
+
+[Otros]
+.vscode/
